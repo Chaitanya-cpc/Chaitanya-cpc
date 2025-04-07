@@ -14,21 +14,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-cpc&theme=radical)](https://git.io/streak-stats)
 
-## 🛠️ Skills
-
-![AI Prompting](https://img.shields.io/badge/-AI%20Prompting-FF6F61?style=flat-square)
-![AI Tools](https://img.shields.io/badge/-AI%20Tools-6E0DD0?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## 📊 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 🔥 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/chaitanya-shashwat/)
 - [Email](mailto:chaitanya@cpcmail.in)
