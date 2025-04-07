@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Chaitanya Shashwat
 
-## 💻 AI Enthusiast | Prompt Engineer
+## 💻 AI Enthusiast
 
 - 🔭 I'm currently working on [IT Inventory System](https://github.com/Chaitanya-cpc/it-inventory-system) and [Zerodha Multi Login](https://github.com/Chaitanya-cpc/zerodha-multi-login)
 - 🌱 I'm learning to leverage AI tools more effectively
-- 💬 Ask me about AI prompting techniques and tool automation
 - My website: https://dev-chaitanya.netlify.app/
 
 ## 📊 GitHub Stats
