@@ -11,5 +11,3 @@
 
 ---
 
-### ✨ Visitors
-![Visitor Count](https://profile-counter.glitch.me/Chaitanya-cpc/count.svg)
